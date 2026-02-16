@@ -1,0 +1,41 @@
+🧍 Personal
+
+Peux-tu me parler de ton parcours ?
+
+Pourquoi as-tu choisi 42 ?
+
+Qu’est-ce qui te motive dans le développement ?
+
+🎓 Education
+
+Quel projet t’a le plus marqué ?
+
+Sur quel projet as-tu le plus progressé techniquement ?
+
+💻 Technical
+
+Quelle est ta relation avec Git ?
+
+As-tu déjà travaillé en équipe ?
+
+Comment testes-tu ton code ?
+
+Comment réagis-tu face à un bug difficile ?
+
+Quelle est ta compréhension de HTML/CSS/JS ?
+
+🚀 Projects
+
+Explique-moi un projet complexe sur lequel tu as travaillé.
+
+Quelle a été la plus grosse difficulté technique rencontrée ?
+
+As-tu déjà travaillé avec des contraintes strictes (normes, standards) ?
+
+🤝 Soft skills
+
+Comment réagis-tu à la critique ?
+
+Préfères-tu travailler seul ou en équipe ?
+
+Comment gères-tu une deadline courte ?
